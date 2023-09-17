@@ -1,0 +1,3 @@
+Basics finished. 
+Add more details.
+Clean up styling.
